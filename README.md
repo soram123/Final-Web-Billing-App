@@ -2,9 +2,9 @@
  Using reactjs and redux web billing app has been created. Registered person can login and add products, customers and create bills.Finally the bills can be downloaded as pdf.
  
 # Tech Stack
-JavaScript |ES6
-React JS,Redux and redux-thunk,
-CSS3,HTML5,
+JavaScript | ES6
+React JS, Redux and redux-thunk ,
+CSS3 , HTML5 ,
 Git
 
 # Packages
