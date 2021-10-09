@@ -3,7 +3,8 @@
  
 # Tech Stack
 JavaScript |ES6
-React JS,Redux and redux-thunk
+React JS,Redux and redux-thunk,
+CSS3,HTML5,
 Git
 
 # Packages
