@@ -50,9 +50,9 @@ The product can also be deleted but it is not advisable to delete product.
 # Bills
 
 The user can create bill for a customer by providing date.
-The product can be selected from the checkbox.The quantity can be incremented or decremented,by default quantity is set to 1.
+The products can be selected from the checkbox.The quantity can be incremented or decremented,by default quantity is set to 1.
 Once added to cart, user can add other products also.
-The product can be removed from the cart.
+The products can be removed from the cart.From the cart bills can be generated.
 Once the bill is generated, the bill can be downloaded as pdf.
 The generated bill can be viewed as well as deleted.
 
